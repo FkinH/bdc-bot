@@ -1,2 +1,4 @@
 # bdc-bot
-bid d**k club qq chat bot project
+Bid D**k Club qq chat bot project based on [qqbot](https://github.com/SpicyGee/qqbot).
+
+developing...
